@@ -1,1 +1,3 @@
-# django-react_crud
+Django-React Crud Application
+
+This application developed in Django-React framework displays simple CRUD operations for adding, deleting, reading, and updating list of movies. The Django aspect deals with the REST API Framework to generate simple user generation and authentication, and also serves as the logic as to how the crud operations work within the API. The React aspect gives a Graphic User Interface of the API called from the Django link generated, and it's relatively simpler to handle CRUD operations for general human users.
